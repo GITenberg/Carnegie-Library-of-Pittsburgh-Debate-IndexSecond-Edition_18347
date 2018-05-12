@@ -1,0 +1,30 @@
+_repo: Carnegie-Library-of-Pittsburgh-Debate-IndexSecond-Edition_18347
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Carnegie Library of Pittsburgh
+    aliases:
+    - Pittsburgh. Carnegie Library
+    - Pittsburgh (Pa.). Carnegie Library
+    gutenberg_agent_id: '7956'
+    url: http://www.gutenberg.org/2009/agents/7956
+description: ''
+gutenberg_issued: '2006-05-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18347'
+  lccn: '14005391'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'Z'
+- !lcsh 'Social problems -- Bibliography'
+title: 'Carnegie Library of Pittsburgh Debate Index
+
+  Second Edition'
+url: http://www.gutenberg.org/ebooks/18347
